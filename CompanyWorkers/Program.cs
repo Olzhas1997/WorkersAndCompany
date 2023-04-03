@@ -1,5 +1,6 @@
 ﻿using System;
-using CompanyWorkers;
+
+namespace CompanyWorkers;
 
 class Program
 {
